@@ -21,6 +21,8 @@
 # Inc. All Rights Reserved.
 ###############################################################################
 
+# Where listings are generated, I think (E.g. /hot, /new, /top, etc.)
+
 import urllib
 
 from oauth2 import require_oauth2_scope
